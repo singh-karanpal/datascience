@@ -3,6 +3,11 @@ datascience
 
 This repository is my attempt to build and train models.
 
+## Package Manager
+```
+conda update conda-build
+```
+
 Project Organization
 ------------
 

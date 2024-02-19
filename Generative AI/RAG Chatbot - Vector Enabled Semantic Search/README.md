@@ -5,7 +5,7 @@ This project is about setting up a RAG Chatbot with a PDF as a Knowledge Base so
 
 Storing the LLM Embeddings of the domain specific data into Vector Based databases would help in efficient information retrieval.
 
-These embeddings are high-dimensional data representation of data.
+These embeddings are high-dimensional representation of domain data.
 
 ## Data Source
 

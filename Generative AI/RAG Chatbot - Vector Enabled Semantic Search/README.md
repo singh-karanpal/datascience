@@ -16,7 +16,7 @@ This has mentions of Immigration Policies, Services for Seniors and Budget Alloc
 
 ## Preview of RAG Chatbot
 
-My [RAG Chatbot]() can answer queries from Budget Speech accurately. I have tried the following questions:
+My [RAG Chatbot](https://github.com/singh-karanpal/datascience/blob/main/Generative%20AI/RAG%20Chatbot%20-%20Vector%20Enabled%20Semantic%20Search/RAG%20Chatbot.ipynb) can answer queries from Budget Speech accurately. I have tried the following questions:
 
 **From Budget Speech**
 - what is the role of higher education?

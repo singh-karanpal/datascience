@@ -18,18 +18,23 @@ This has mentions of Immigration Policies, Services for Seniors and Budget Alloc
 
 My [RAG Chatbot]() can answer queries from Budget Speech accurately. I have tried the following questions:
 
-**From Budget Speech 2023-2024**
+**From Budget Speech**
 - what is the role of higher education?
 - can you highlight budget benefits for the seniors?
 - are there any implications on immigration policy?
+- what have been discussed for the French language?
 
-Here is an example of response from the Chatbot:
+Here are some responses from the Chatbot:
 
 <img src='img/img1.png'></img>
+<img src='img/img2.png'></img>
+
+View Relevant Responses
+<img src='img/img3.png'></img>
 
 To Create a serverless Vector Database and support a Vector enabled semantic search, I have used [Datastax](https://docs.datastax.com/en/home/docs/index.html)
 
-<img src='img/img2.png'></img>
+<img src='img/img4.png'></img>
 
 
 ## Agenda

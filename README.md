@@ -1,7 +1,17 @@
 datascience
 ==============================
 
-This repository is my attempt to build and train models.
+This repository is my attempt to build, train and fine-tune models.
+
+I'll be focusing primarily on the following:
+
+1. Transformers Based models
+2. Large Language Models e.g text-to-text
+3. Large Models e.g text-to-images or text-to-videos
+
+## Projects
+
+1. Generative AI Chatbot using LangChain
 
 ## Package Manager
 ```

@@ -12,7 +12,7 @@ I'll be focusing primarily on the following:
 ## Projects
 
 1. [Generative AI Chatbot using LangChain](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/LangChain%20Gen%20AI%20-%20Chatbot)
-2. [RAG Chatbot]() - Vector Enabled Semantic Search
+2. [RAG Chatbot](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/RAG%20Chatbot%20-%20Vector%20Enabled%20Semantic%20Search) - Vector Enabled Semantic Search
 
 ## Package Manager
 ```

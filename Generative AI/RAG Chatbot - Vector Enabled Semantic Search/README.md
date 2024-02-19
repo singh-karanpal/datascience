@@ -24,12 +24,13 @@ My [RAG Chatbot]() can answer queries from Budget Speech accurately. I have trie
 - are there any implications on immigration policy?
 - what have been discussed for the French language?
 
-Here are some responses from the Chatbot:
+**Here are some responses from the Chatbot:**
 
 <img src='img/img1.png'></img>
 <img src='img/img2.png'></img>
 
-View Relevant Responses
+**View Relevant Responses**
+
 <img src='img/img3.png'></img>
 
 To Create a serverless Vector Database and support a Vector enabled semantic search, I have used [Datastax](https://docs.datastax.com/en/home/docs/index.html)

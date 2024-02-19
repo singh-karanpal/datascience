@@ -11,7 +11,7 @@ I'll be focusing primarily on the following:
 
 ## Projects
 
-1. Generative AI Chatbot using LangChain
+1. [Generative AI Chatbot using LangChain](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/LangChain%20Gen%20AI%20-%20Chatbot)
 
 ## Package Manager
 ```

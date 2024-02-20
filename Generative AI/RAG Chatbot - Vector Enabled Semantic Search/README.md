@@ -1,4 +1,4 @@
-LangChain - Generative AI - Chatbot
+RAG Chatbot - Generative AI
 ==============================
 
 This project is about setting up a RAG Chatbot with a PDF as a Knowledge Base so that Chatbot would tap into domain data before responding to user queries. 

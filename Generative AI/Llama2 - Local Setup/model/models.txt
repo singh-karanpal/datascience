@@ -1,0 +1,5 @@
+'model/llama-2-7b-chat.ggmlv3.q8_0.bin',
+# model = 'model/llama-2-7b-chat.ggmlv3.q4_0.bin',
+# model = 'model/llama-7b-ggml-model-q4_0.bin',
+# model = 'model/llama-2-7b-chat-hf.Q5_K_M.gguf',
+# model = 'model/neuuni-2-7b-miniassistant-mytho.v3.q4_k_m.bin',

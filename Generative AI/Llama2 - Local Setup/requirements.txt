@@ -1,0 +1,12 @@
+langchain
+openai
+streamlit
+ctransformers
+python-box
+streamlit
+uvicorn
+sentence-transformers
+accelerate
+torch 
+torchvision 
+torchaudio

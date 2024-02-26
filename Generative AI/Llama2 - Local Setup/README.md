@@ -16,7 +16,7 @@ I envision a substantial reduction in processing time with an M3 Max-128GB or an
 
 ## Preview of Llama2 App
 
-My [Llama2 App]() will spin-up the following app on local machine:
+My [Llama2 App](https://github.com/singh-karanpal/datascience/blob/main/Generative%20AI/Llama2%20-%20Local%20Setup/app.py) will spin-up the following app on local machine:
 
 **Local Llama2 Model**
 

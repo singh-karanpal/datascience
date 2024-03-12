@@ -1,0 +1,83 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+    color: #3D3D3D;
+}
+
+.title {
+    color: orange;
+}
+
+.second {
+    float: left;
+    white-space: pre-line;
+}
+
+.third {
+    float: right;
+    white-space: pre-line;
+}
+
+/* Style the image div */
+.image-div {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    /* overflow-y: auto; */
+}
+
+/* Style the text output div */
+.text-div {
+    width: 100%;
+    /* padding: 20px; */
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    height: 1;
+}
+
+.classifyOnClick img {
+    width: 100%;
+}
+
+.invisible {
+    opacity: 0.2;
+}
+
+.removed {
+    display: none;
+}
+
+.highlighter {
+    background: rgba(0, 255, 0, 0.25);
+    border: 1px dashed #fff;
+    z-index: 1;
+    position: absolute;
+}
+
+
+.videoView,
+.classifyOnClick {
+    position: relative;
+    float: left;
+    width: 100%;
+    margin: 2% 1%;
+    cursor: pointer;
+}
+
+.videoView p,
+.classifyOnClick p {
+    position: absolute;
+    padding: 5px;
+    background-color: rgba(255, 111, 0, 0.85);
+    color: #FFF;
+    border: 1px dashed rgba(255, 255, 255, 0.7);
+    z-index: 2;
+    font-size: 12px;
+    margin: 0;
+}

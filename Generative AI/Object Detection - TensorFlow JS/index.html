@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        Object Detection App
+    </title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1 class="title">Object Detection using TensorFlow JS</h1>
+    <div id="loading">
+        <h3>Loading the model</h3>
+        <p>Please wait...</p>
+    </div>
+    <div class="container">
+        <div class="image-div">
+
+            <section id="objects" class="invisible">
+                <div class="classifyOnClick">
+                    <img src="imgs/street.jpg" title="Click to Detect Objects">
+                </div>
+
+        </div>
+        <div class="text-div">
+
+            <h3 class="title">Model Output</h3>
+
+            <input type="text" id="status" />
+
+            <div id="sub_status" />
+
+        </div>
+    </div>
+
+    <!-- Import TensorFlow.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.11.0/dist/tf.min.js" type="text/javascript"></script>
+
+    <!-- Load the coco-ssd model to use to recognize things in images -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd"></script>
+
+    <!-- Import the page's JavaScript to do some stuff -->
+    <script src="/script.js"></script>
+</body>

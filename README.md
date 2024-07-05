@@ -15,6 +15,7 @@ I'll be focusing primarily on the following:
 2. [RAG Chatbot - Vector Enabled Semantic Search](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/RAG%20Chatbot%20-%20Vector%20Enabled%20Semantic%20Search)
 3. [Llama2 - Local Model](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Llama2%20-%20Local%20Setup)
 4. [Object Detection - WebML with TensorFlow JS](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Object%20Detection%20-%20TensorFlow%20JS)
+5. [Llama2 - Fine Tuning on Custom Data]()
 
 ## Package Manager
 ```

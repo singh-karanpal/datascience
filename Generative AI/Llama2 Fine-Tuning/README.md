@@ -12,7 +12,7 @@ This project is about Fine-Tuning Llama2 using PEFT & Quantized Low-Ranking Adap
 
 ## Preview of Llama2 App
 
-[Link to the Jupyter Notebook]()
+[Link to the Jupyter Notebook](https://github.com/singh-karanpal/datascience/blob/main/Generative%20AI/Llama2%20Fine-Tuning/Llama2_Fine_Tuning.ipynb)
 
 **Model Output**
 

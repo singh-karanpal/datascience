@@ -1,4 +1,4 @@
-Local Llama2 - Generative AI
+Local Llama2 - Fine Tuning - Generative AI
 ==============================
 
 This project is about Fine-Tuning Llama2 using PEFT & Quantized Low-Ranking Adaptation (QLoRA) on the Conversational AI Dialogue Dataset to generate a summary of the conversations. The results were amazing.

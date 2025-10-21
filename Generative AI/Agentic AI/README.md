@@ -9,7 +9,7 @@ This project is about setting up an **AI-Agent** that can go through the query a
 
 ## Preview
 
-My [AI-Agent]().
+My [AI-Agent](https://github.com/singh-karanpal/datascience/blob/main/Generative%20AI/Agentic%20AI/agent_teams.py).
 
 **Model Output**
 

@@ -33,48 +33,29 @@ yfinance_agent = Agent(
     model=Groq(id=model,max_tokens=1000)
 )
 
-# crawl4ai_agent = Agent(
-#     tools=[Crawl4aiTools(max_length=None)], 
-#     role='search web for the given user instructions',
-#     show_tool_calls=True, 
-#     model=Groq(id=model,max_tokens=1000)
-# )
+crawl4ai_agent = Agent(
+    tools=[Crawl4aiTools(max_length=None)], 
+    role='search web for the given user instructions',
+    show_tool_calls=True, 
+    model=Groq(id=model,max_tokens=1000)
+)
 
-# firecrawl_agent = Agent(
-#     tools=[FirecrawlTools(scrape=True, crawl=True, api_key=fc_api_key)], 
-#     show_tool_calls=True,
-#     role='search web for the given user instructions', 
-#     markdown=True,
-#     model=Groq(id=model,max_tokens=1000)
-# )
+firecrawl_agent = Agent(
+    tools=[FirecrawlTools(scrape=True, crawl=True, api_key=fc_api_key)], 
+    show_tool_calls=True,
+    role='search web for the given user instructions', 
+    markdown=True,
+    model=Groq(id=model,max_tokens=1000)
+)
 
 multi_agent = Agent(
     model=Groq(id=model,max_tokens=1000),
-    team=[website_agent, yfinance_agent], #crawl4ai_agent, firecrawl_agent],
+    team=[website_agent, yfinance_agent, crawl4ai_agent, firecrawl_agent],
     instructions=['search web as per user instructions', 'search web as per user instructions'],
     show_tool_calls=True,
     markdown=True
 )
 
-# website_agent.print_response("what is this page about 'https://portal.collegept.org/en-US/public-register/'", markdown=True)
-# agent.print_response("List down physical therapists on 'https://portal.collegept.org/en-US/public-register/'", markdown=True)
-# agent.print_response("Are there any PDF or CSV files on 'https://portal.collegept.org/en-US/public-register/'", markdown=True)
-# agent.print_response("Can you search for Name Kimberley Dawn Jelly on 'https://portal.collegept.org/en-US/public-register/'", markdown=True)
-# agent.print_response("List all clinics and details on 'https://bcphysio.org/find-a-clinic/'", markdown=True)
-
-# agent.print_response("Tell me about https://bcphysio.org/find-a-clinic/.", markdown=True)
-# agent.print_response("List all clinics on  https://bcphysio.org/find-a-clinic/.", markdown=True)
-# agent.print_response("List 10 clinics inlcuing with their addresses on  https://bcphysio.org/find-a-clinic/.", markdown=True)
-# agent.print_response("fetch contact details from  https://portal.collegept.org/en-US/public-register/.", markdown=True)
-# agent.print_response("find address on 'https://bcphysio.org/contact/'", markdown=True)
-
-
-
-# multi_agent.print_response("find address on 'https://bcphysio.org/contact/'", markdown=True)
-# multi_agent.print_response("find 10 clinics with addresses on 'https://bcphysio.org/find-a-clinic/'", markdown=True)
-# multi_agent.print_response("list 10 clinics with names, addresses, phone on 'https://bcphysio.org/find-a-clinic/'", markdown=True)
-# multi_agent.print_response("List down physical therapists on 'https://portal.collegept.org/en-US/public-register/'", markdown=True)
-# multi_agent.print_response("find contact details on 'https://portal.collegept.org/en-US/public-register/'", markdown=True)
 
 multi_agent.print_response("""Tell me about 'https://www.telus.com/en/' and Share the Telus Corp stock price and analyst recommendations""", 
                            markdown=True)

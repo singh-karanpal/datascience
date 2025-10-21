@@ -11,12 +11,14 @@ I'll be focusing primarily on the following:
 
 ## Projects
 
-1. [Generative AI Chatbot using LangChain](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/LangChain%20Gen%20AI%20-%20Chatbot)
-2. [RAG Chatbot - Vector Enabled Semantic Search](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/RAG%20Chatbot%20-%20Vector%20Enabled%20Semantic%20Search)
-3. [Llama2 - Local Model](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Llama2%20-%20Local%20Setup)
-4. [Object Detection - WebML with TensorFlow JS](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Object%20Detection%20-%20TensorFlow%20JS)
-5. [Llama2 - Fine Tuning on Custom Data](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Llama2%20Fine-Tuning)
-6. [AI-Agents - Task Handoff](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Agentic%20AI)
+| # | Project Name | Link |
+|-----------|-----------|-----------|
+| 1 | Generative AI Chatbot using LangChain| [Generative AI Chatbot using LangChain](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/LangChain%20Gen%20AI%20-%20Chatbot)|
+| 2| RAG Chatbot - Vector Enabled Semantic Search| [RAG Chatbot - Vector Enabled Semantic Search](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/RAG%20Chatbot%20-%20Vector%20Enabled%20Semantic%20Search)|
+| 3| Llama2 - Local Model | [Llama2 - Local Model](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Llama2%20-%20Local%20Setup) |
+| 4| Object Detection - WebML with TensorFlow JS| [Object Detection - WebML with TensorFlow JS](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Object%20Detection%20-%20TensorFlow%20JS)|
+| 5| Llama2 - Fine Tuning on Custom Data | [Llama2 - Fine Tuning on Custom Data](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Llama2%20Fine-Tuning) |
+| 6| AI-Agents - Task Handoff | [AI-Agents - Task Handoff](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Agentic%20AI) |
 
 ## Package Manager
 

@@ -26,7 +26,7 @@ I'll be focusing primarily on the following:
 ### 2. React & Fast API
 | # | Project Name | Link | Component Used |
 |-----------|-----------|-----------|-----------|
-| 1 | Dataset Curasion App| [Dataset Curasion App]()|React JS|
+| 1 | Dataset Curasion App| [Dataset Curasion App](https://github.com/singh-karanpal/datascience/tree/main/React%20%2B%20Fast%20API/1.%20dataset-curastion-app)|React JS|
 
 
 ## Package Manager

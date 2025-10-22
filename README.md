@@ -7,10 +7,13 @@ I'll be focusing primarily on the following:
 
 1. Transformers Based models
 2. Large Language Models e.g text-to-text
-3. Large Models e.g text-to-images or text-to-videos
+3. Deep Learning and Machine Learning Models
+4. ML project Tracing and MLOps using MLFlow
+5. Building Apps using React + Fast API
 
 ## Projects
 
+### 1. Gen AI
 | # | Project Name | Link |
 |-----------|-----------|-----------|
 | 1 | Generative AI Chatbot using LangChain| [Generative AI Chatbot using LangChain](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/LangChain%20Gen%20AI%20-%20Chatbot)|
@@ -19,6 +22,12 @@ I'll be focusing primarily on the following:
 | 4| Object Detection - WebML with TensorFlow JS| [Object Detection - WebML with TensorFlow JS](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Object%20Detection%20-%20TensorFlow%20JS)|
 | 5| Llama2 - Fine Tuning on Custom Data | [Llama2 - Fine Tuning on Custom Data](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Llama2%20Fine-Tuning) |
 | 6| AI-Agents - Task Handoff | [AI-Agents - Task Handoff](https://github.com/singh-karanpal/datascience/tree/main/Generative%20AI/Agentic%20AI) |
+
+### 2. React & Fast API
+| # | Project Name | Link | Component Used |
+|-----------|-----------|-----------|-----------|
+| 1 | Dataset Curasion App| [Dataset Curasion App]()|React JS|
+
 
 ## Package Manager
 
